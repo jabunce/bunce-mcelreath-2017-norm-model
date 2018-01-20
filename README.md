@@ -2,7 +2,7 @@
 contains files relating to 2017 model for the article:
 
 Sustainability of minority culture when inter-ethnic interaction is profitable
-John Bunce and Richard McElreath
+(John Bunce and Richard McElreath)
 
 The original preprint is on SocArXiv [here](https://osf.io/preprints/socarxiv/bpgt3/)
 
