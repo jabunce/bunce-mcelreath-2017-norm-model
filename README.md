@@ -1,13 +1,11 @@
 # bunce-mcelreath-2017-norm-model
 contains files relating to 2017 model for the article:
 
-Sustainability of minority culture when inter-ethnic interaction is profitable
-(John Bunce and Richard McElreath)
+[Bunce, JA and R McElreath](https://www.nature.com/articles/s41562-018-0306-7) (2018) Sustainability of minority culture when inter-ethnic interaction is profitable. Nature Human Behaviour 2:205-212.
+
+A read-only version is available [here](http://rdcu.be/HQsy)
 
 The original preprint is on SocArXiv [here](https://osf.io/preprints/socarxiv/bpgt3/)
-
-
-A revised version is currently in press at Nature Human Behaviour
 
 
 Figure and equation numbers below and in the notebooks refer to the original pre-print on SocArXiv, which has an attached appendix. In the published article, some of the figures and equations change numbers, and the appendix is turned into Supplementary Materials.   
