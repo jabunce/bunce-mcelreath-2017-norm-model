@@ -7,6 +7,7 @@ A read-only version is available [here](http://rdcu.be/HQsy)
 
 The original preprint is on SocArXiv [here](https://osf.io/preprints/socarxiv/bpgt3/)
 
+To make it easier to download these Mathematica files directly, I've also put them in the Supplemental Materials section on SocArXiv [here](https://osf.io/8be5z/)
 
 Figure and equation numbers below and in the notebooks refer to the original pre-print on SocArXiv, which has an attached appendix. In the published article, some of the figures and equations change numbers, and the appendix is turned into [Supplementary Materials](https://static-content.springer.com/esm/art%3A10.1038%2Fs41562-018-0306-7/MediaObjects/41562_2018_306_MOESM1_ESM.pdf).   
 
